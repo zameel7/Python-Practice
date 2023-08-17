@@ -1,5 +1,5 @@
 # Python
-AJCE WORKSHOP
+AJCE Python Workshop Updates Maded
 # 17-08-23
 ```PYTHON Session by zameel
 
